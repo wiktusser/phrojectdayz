@@ -1,0 +1,23 @@
+{
+  "name": "my-app",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "react": "^16.4.0",
+    "react-dom": "^16.4.0",
+    "react-grid-gallery": "^0.4.11",
+    "react-headroom": "^2.2.2",
+    "react-helmet": "^5.2.0",
+    "react-images": "^0.5.17",
+    "react-intense": "^0.1.2",
+    "react-scripts": "1.1.4",
+    "typography": "^0.16.17",
+    "typography-theme-irving": "^0.15.10"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}

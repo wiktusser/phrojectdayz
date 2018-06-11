@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleIdentifier</key>
+	<string>com.luminar.lmnr</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundleName</key>
+	<string>documentbundle</string>
+	<key>CFBundlePackageType</key>
+	<string>LMNR</string>
+	<key>CFBundleShortVersionString</key>
+	<string>1.0.2</string>
+	<key>CFBundleVersion</key>
+	<string>2235</string>
+	<key>MPHistoryDict</key>
+	<dict>
+		<key>cachedTexturesBookmarksDict</key>
+		<dict>
+			<key>/Users/wiktus/Documents/Front-END/album script/my-app/src/images/hawaii/4.jpg</key>
+			<data>
+			Ym9va6gDAAAAAAQQMAAAACuNkQHvthcgVxzaLYNszcGo7JZfZBRI
+			EzJshMu5EfrmpAIAAAQAAAADAwAAAAgAKAUAAAABAQAAVXNlcnMA
+			AAAGAAAAAQEAAHdpa3R1cwAACQAAAAEBAABEb2N1bWVudHMAAAAJ
+			AAAAAQEAAEZyb250LUVORAAAAAwAAAABAQAAYWxidW0gc2NyaXB0
+			BgAAAAEBAABteS1hcHAAAAMAAAABAQAAc3JjAAYAAAABAQAAaW1h
+			Z2VzAAAGAAAAAQEAAGhhd2FpaQAABQAAAAEBAAA0LmpwZwAAACgA
+			AAABBgAAEAAAACAAAAAwAAAARAAAAFgAAABsAAAAfAAAAIgAAACY
+			AAAAqAAAAAgAAAAEAwAAl0wGAAAAAAAIAAAABAMAAP6rBgAAAAAA
+			CAAAAAQDAAD/qwYAAAAAAAgAAAAEAwAAVjYHAAAAAAAIAAAABAMA
+			AIlfGgECAAAACAAAAAQDAAARsRoBAgAAAAgAAAAEAwAA8WYbAQIA
+			AAAIAAAABAMAAAN0GwECAAAACAAAAAQDAAAUdBsBAgAAAAgAAAAE
+			AwAAHXQbAQIAAAAoAAAAAQYAAOgAAAD4AAAACAEAABgBAAAoAQAA
+			OAEAAEgBAABYAQAAaAEAAHgBAAAIAAAAAAQAAEHAT3HrAAAAGAAA
+			AAECAAABAAAAAAAAAA8AAAAAAAAAAAAAAAAAAAAIAAAABAMAAAgA
+			AAAAAAAABAAAAAMDAAD1AQAACAAAAAEJAABmaWxlOi8vLwUAAAAB
+			AQAAQVBQTEUAAAAIAAAABAMAAACwX7svAAAACAAAAAAEAABBvasD
+			PQAAACQAAAABAQAANDVCMDI4NzMtRDBGNC0zRjk2LTk0MUUtQjNF
+			OTE2RjA0MDk4GAAAAAECAACBAAAAAQAAAO8TAAABAAAAAAAAAAAA
+			AAABAAAAAQEAAC8AAAAAAAAAAQUAAMwAAAD+////AQAAAAAAAAAQ
+			AAAABBAAALgAAAAAAAAABRAAAIgBAAAAAAAAEBAAAMgBAAAAAAAA
+			QBAAALgBAAAAAAAAAiAAAJACAAAAAAAABSAAAAQCAAAAAAAAECAA
+			ABQCAAAAAAAAESAAAEQCAAAAAAAAEiAAACQCAAAAAAAAEyAAADQC
+			AAAAAAAAICAAAHACAAAAAAAAMCAAAJwCAAAAAAAAAcAAAOgBAAAA
+			AAAAEcAAACAAAAAAAAAAEsAAAPgBAAAAAAAAENAAAAQAAAAAAAAA
+			</data>
+		</dict>
+		<key>cachedTexturesDict</key>
+		<dict>
+			<key>/Users/wiktus/Documents/Front-END/album script/my-app/src/images/hawaii/4.jpg</key>
+			<string>DC0EBD0C-15C4-4C20-8104-43991293DBC1.jpg</string>
+		</dict>
+		<key>currentLevelOfHistory</key>
+		<integer>0</integer>
+		<key>historyDicts</key>
+		<array>
+			<dict>
+				<key>actionName</key>
+				<string>--FORCE SAVE--</string>
+				<key>uuid</key>
+				<string>BA00EE53-11ED-494E-851D-5A6AC3A8ECE2</string>
+			</dict>
+		</array>
+	</dict>
+	<key>MPMainBundleIdentifier</key>
+	<string>com.macphun.luminar2018</string>
+	<key>MPOriginalImagePath</key>
+	<string>/Users/wiktus/Documents/Front-END/album script/my-app/src/images/hawaii/4.jpg</string>
+	<key>MPQuickLookThumbnailSize</key>
+	<string>{120, 58}</string>
+	<key>MPSaveHistoryToDocument</key>
+	<false/>
+	<key>MPdeleteOrigResources</key>
+	<false/>
+</dict>
+</plist>

@@ -1,0 +1,44 @@
+.App {
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  flex-grow: 1;
+}
+
+.App-header {
+  background-color: #222;
+  height: 50px;
+  padding: 20px;
+  color: white;
+  /* transition: all .2s ease-in-out; */
+}
+
+.Album-selector {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+}
+
+.Album-selector {
+  background-color: #222;
+  height: 70px;
+  padding: 20px;
+  color: white;
+  transition: all .2s ease-in-out;
+}
+
+.Album-selector:hover {
+  background-color: #ccc;
+  height: 90px;
+  padding: 20px;
+  color: white;
+}
+
+.Album-selector-element {
+  height: 50px;
+  border: 1px solid #ccc;
+}
+
+.Album {
+  height: 600px;
+}

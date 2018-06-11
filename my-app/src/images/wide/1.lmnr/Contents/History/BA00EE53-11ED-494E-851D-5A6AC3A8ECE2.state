@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ActiveLayerIndex</key>
+	<integer>0</integer>
+	<key>CropDescription</key>
+	<dict>
+		<key>aspectRatioHeight</key>
+		<real>0.0</real>
+		<key>aspectRatioWidht</key>
+		<real>0.0</real>
+		<key>cropRectHeight</key>
+		<real>1906</real>
+		<key>cropRectWidht</key>
+		<real>3968</real>
+		<key>cropRectX</key>
+		<real>0.0</real>
+		<key>cropRectY</key>
+		<real>750</real>
+		<key>guidesType</key>
+		<integer>0</integer>
+		<key>imageSizeHeight</key>
+		<real>2976</real>
+		<key>imageSizeWidht</key>
+		<real>3968</real>
+		<key>rotation</key>
+		<real>0.0</real>
+	</dict>
+	<key>InitialLayerDictionary</key>
+	<dict>
+		<key>Amount</key>
+		<real>1</real>
+		<key>BlendModeIdentifier</key>
+		<string>Normal</string>
+		<key>BlendModeModified</key>
+		<false/>
+		<key>EffectsAmount</key>
+		<real>1</real>
+		<key>Enabled</key>
+		<true/>
+		<key>Hidden</key>
+		<false/>
+		<key>HistoryBrushStack</key>
+		<array/>
+		<key>Identifier</key>
+		<string>98FC3802-CB39-4D4E-B5FC-81050587361C</string>
+		<key>MaskEnabled</key>
+		<true/>
+		<key>Name</key>
+		<string>4.jpg</string>
+		<key>PreferredCanvasSize</key>
+		<string>{3968, 2976}</string>
+		<key>TexturePath</key>
+		<string>/Users/wiktus/Library/Application Support/MacPhun Software/Luminar 2018/History/602CCF49-CF8E-47C2-BC8D-5AF316610D81/resources/DC0EBD0C-15C4-4C20-8104-43991293DBC1.jpg</string>
+		<key>TextureScaleMode</key>
+		<integer>0</integer>
+	</dict>
+	<key>Layers</key>
+	<array>
+		<dict>
+			<key>Amount</key>
+			<real>1</real>
+			<key>BlendModeIdentifier</key>
+			<string>Normal</string>
+			<key>BlendModeModified</key>
+			<false/>
+			<key>EffectsAmount</key>
+			<real>1</real>
+			<key>Enabled</key>
+			<true/>
+			<key>Hidden</key>
+			<false/>
+			<key>HistoryBrushStack</key>
+			<array/>
+			<key>Identifier</key>
+			<string>98FC3802-CB39-4D4E-B5FC-81050587361C</string>
+			<key>MaskEnabled</key>
+			<true/>
+			<key>Name</key>
+			<string>4.jpg</string>
+			<key>PreferredCanvasSize</key>
+			<string>{3968, 2976}</string>
+			<key>TexturePath</key>
+			<string>/Users/wiktus/Library/Application Support/MacPhun Software/Luminar 2018/History/602CCF49-CF8E-47C2-BC8D-5AF316610D81/resources/DC0EBD0C-15C4-4C20-8104-43991293DBC1.jpg</string>
+			<key>TextureScaleMode</key>
+			<integer>0</integer>
+		</dict>
+	</array>
+</dict>
+</plist>
